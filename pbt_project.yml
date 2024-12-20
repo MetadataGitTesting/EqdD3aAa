@@ -1,0 +1,57 @@
+name: zenobia.romaguera
+description: Digitized
+version: 1.7.635
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: zenobiaromaguera
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:28:37'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:28:37'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:28:37.217376Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '1480152612'
+  createdAt: '2024-12-20T20:28:37.217376Z'
+  type: plibMaven
+projectDependencies:
+  '172':
+    projectUID: 172
+    projectName: marco.king
+    repositoryPath: gitUri=http://gitserver:3000/dev_k9RCFaJJ_team_330/dev_k9RCFaJJ_project_172.git&subPath=
+    version: marco.king/3.1.1.360
+    isDefault: false
+    author: null
+    createdAt: '2024-12-20 20:28:35'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
